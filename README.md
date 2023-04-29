@@ -1,8 +1,7 @@
-Leo Deng, Software Developer, CS Student @USC
+Leo Deng, Software Developer, USC Computer Science Grad
 - 👀 I’m interested in building & scaling mission-based startup ideas
 - 🌱 I’m currently building applications with React and React Native
-- 💞️ I’m looking to collaborate on projects tackling problems of social health, relationships, and mental wellness
-- Email: leodeng@usc.edu
+- Email: leodeng5@gmail.com
 
 <!---
 Leodeng5/Leodeng5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
